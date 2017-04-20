@@ -1,0 +1,26 @@
+5 pts
+
+John, 
+
+About your programs...
+
+Functionality
+
+- There are missing problems.  -3pts
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- You used tabs, which is forbidden. -1pt
+
+- There is incorrect indentation. -1pt
+
+Please make sure you follow the style guidelines. Penalties will be higher as
+the semester moves forward.
+
+
+Peace,
+
+- Dr. Rivas
