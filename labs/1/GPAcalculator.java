@@ -1,3 +1,10 @@
+//File GPAcalculator.java
+//Author: Jake Litts
+//Course CMPT 220
+//Assignment: Lab 1
+//Due Date: May 11, 2017
+
+//This program calculates a student's GPA.
 import java.util.Scanner;
  
 public class GPAcalculator {

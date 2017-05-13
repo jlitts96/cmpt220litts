@@ -1,3 +1,11 @@
+//File FinancialApplication.java
+//Author: Jake Litts
+//Course CMPT 220
+//Assignment: Lab 1
+//Due Date: May 11, 2017
+
+//This program computes gratuity after given the subtotal and gratuity rate.
+
 import java.util.Scanner;
  
 public class FinancialApplication {

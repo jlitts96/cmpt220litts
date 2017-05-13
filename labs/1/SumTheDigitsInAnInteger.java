@@ -1,3 +1,10 @@
+//File SumTheDigitsInAnInteger.java
+//Author: Jake Litts
+//Course CMPT 220
+//Assignment: Lab 1
+//Due Date: May 11, 2017
+
+//This program finds the sum of the digits in an integer. 
 import java.util.Scanner;
  
 public class SumTheDigitsInAnInteger {
