@@ -1,3 +1,10 @@
+Update:
++1pt -> programs have headers.
+All other issues remain.
+8pts
+
+=-=-=-=-=-=-=-
+
 7 pts
 
 John,

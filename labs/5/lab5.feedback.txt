@@ -1,0 +1,19 @@
+9 pts
+
+John,
+
+About your programs...
+
+Functionality
+
+- All programs function correctly as required.
+
+
+Style Check
+
+- You used tabs, which is forbidden. (Exercise732 line 56)  -1pt
+
+
+Peace,
+
+- Dr. Rivas
